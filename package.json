@@ -1,0 +1,18 @@
+{
+  "name": "d3box-creeper",
+  "version": "1.0.0",
+  "description": "钻爬凯恩之角的爬虫 O(∩_∩)O",
+  "repository": "http://github.com/sun-sheng/d3box-creeper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunsheng.cn@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "iconv-lite": "^0.4.11",
+    "load-script": "^1.0.0",
+    "request": "^2.60.0"
+  }
+}
