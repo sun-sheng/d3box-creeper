@@ -1,7 +1,7 @@
 {
   "name": "d3box-creeper",
   "version": "1.0.0",
-  "description": "钻爬凯恩之角的爬虫 O(∩_∩)O",
+  "description": "凯恩之角的爬虫 O(∩_∩)O",
   "repository": "http://github.com/sun-sheng/d3box-creeper",
   "main": "server.js",
   "scripts": {
@@ -13,6 +13,9 @@
     "cheerio": "^0.19.0",
     "iconv-lite": "^0.4.11",
     "load-script": "^1.0.0",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.1.2",
+    "q": "^1.4.1",
     "request": "^2.60.0"
   }
 }
